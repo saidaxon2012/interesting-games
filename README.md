@@ -1,9 +1,9 @@
 # interesting-games
 
-[MAIN](/main.py)
+[MAIN](/Main.py)
 
-[DAVLAT](/lugat.py)
+[STATE](/Dictionary.py)
 
-[AJDOD](/nesting.py)
+[ANCESTOR](/Nesting.py)
 
-[UY](/uy.py)
+[HOME](/Home.py)
